@@ -10,7 +10,7 @@
   - Tracks the total number of tasks.  
   - Tracks the number of completed tasks.   
 
-## Installation (For Developers)  
+## Installation
 If you want to run the application locally or make changes:  
 1. Clone the repository:  
    ```bash
